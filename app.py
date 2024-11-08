@@ -111,7 +111,7 @@ def safe_statistics(numbers):
     return stats
 
 def main():
-    st.title("Advanced Random Number Generator")
+    st.title("NumGen - Advanced Random Number Generator")
     st.write("This application demonstrates a complex random number generation system with multiple layers of randomness.")
 
     # Initialize session state
